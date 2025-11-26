@@ -54,17 +54,6 @@ Un'applicazione web dinamica per esplorare film, costruita con **JavaScript** e 
 </table>
 
 
-### Dashboard Completamento SDO
-
-Dashboard aziendale sviluppata durante lo stage presso **Gruppo GPI** per la gestione e il monitoraggio di software e clienti. Frontend in **Angular** e **Tailwind CSS**, backend in **Java Spring Boot** con database **PostgreSQL**. Gestione completa con API REST testate via Postman.
-
-[Frontend](https://github.com/LorenzoParolini/dashboard-completamentosdo) | [Backend](https://github.com/LorenzoParolini/dashboard-completamentosdo-backend)
-
-</td>
-
-</tr>
-</table>
-
 
 ---
 
