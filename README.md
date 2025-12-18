@@ -4,7 +4,6 @@
 📍 Milano, Italia
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lorenzo%20Parolini-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lorenzo-parolini/)
-[![GitHub](https://img.shields.io/badge/GitHub-LorenzoParolini-black?style=flat&logo=github)](https://github.com/LorenzoParolini)
 
 ---
 
