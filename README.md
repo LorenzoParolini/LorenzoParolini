@@ -123,7 +123,6 @@ Un'applicazione web dinamica per esplorare film, costruita con **JavaScript** e 
 📧 **Email**: lorenzo.parolini@itstechtalentfactory.it  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Collegati-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lorenzo-parolini/)
-[![GitHub](https://img.shields.io/badge/GitHub-Seguimi-black?style=for-the-badge&logo=github)](https://github.com/LorenzoParolini)
 
 ---
 
