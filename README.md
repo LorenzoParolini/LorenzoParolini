@@ -9,23 +9,34 @@
 
 ## 🧑‍💻 Chi sono
 
-Studente appassionato di tecnologia e Junior Fullstack Developer in formazione presso l'**ITS Tech Talent Factory** (corso Fullstack Developer with Cloud Technologies, ottobre 2024 - luglio 2026).
+Studente appassionato di tecnologia e Junior Fullstack Developer in formazione presso l'**ITS Tech Talent Factory** (corso Fullstack Developer with Cloud Technologies, ottobre 2024 - giugno 2026).
 
 Le mie esperienze come scout, insieme alla mia formazione tecnica, mi rendono un candidato motivato e aperto a nuove sfide. Affronto le difficoltà con pacatezza ed educazione, mentre la mia creatività mi aiuta a trovare soluzioni innovative. Cerco esperienze come sviluppatore fullstack in ambienti dinamici e collaborativi.
 
+## 💼 Esperienza
 
+Attualmente sto svolgendo il **secondo tirocinio** come Fullstack Developer presso **GPI S.p.A.** (03/2026 – 05/2026, in corso), dopo un primo tirocinio nella stessa azienda (07/2025 – 09/2025), per un totale di **800 ore**. Mi occupo dello sviluppo e della riprogettazione della dashboard aziendale "Completamento SDO": ho implementato una funzione **JavaScript** per automatizzare la sincronizzazione dei dati da file **JSON** e sviluppato l'autenticazione tramite **Bearer Token** per le operazioni CRUD. Lavoro in modalità ibrida con stack **Angular + TypeScript + Tailwind CSS** (frontend) e **Java Spring Boot + PostgreSQL** (backend), utilizzando **Postman**, **Git/GitLab** e **Jira**.
 
 ## 🚀 Progetti principali
 
 <table>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### Dashboard Completamento SDO
 
-Dashboard aziendale sviluppata durante lo stage presso **Gruppo GPI** per la gestione e il monitoramento di software e clienti. Frontend in **Angular** e **Tailwind CSS**, backend in **Java Spring Boot** con database **PostgreSQL**. Gestione completa con API REST testate via Postman, versionamento con **Git** e **GitLab**, project management con **Jira**.
+Dashboard aziendale sviluppata durante lo stage presso **Gruppo GPI** per la gestione e il monitoraggio di software e clienti. Frontend in **Angular** e **Tailwind CSS**, backend in **Java Spring Boot** con database **PostgreSQL**. Gestione completa con API REST testate via Postman, autenticazione **Bearer Token**, versionamento con **Git** e **GitLab**, project management con **Jira**.
 
 [Frontend](https://github.com/LorenzoParolini/dashboard-completamentosdo) | [Backend](https://github.com/LorenzoParolini/dashboard-completamentosdo-backend)
+
+</td>
+<td width="50%" valign="top">
+
+### Pawperfect 🐾
+
+Applicazione fullstack sviluppata in **team** con un collega di corso, organizzata come **monorepo Nx**. Mi sono occupato della parte di **backend** in **Java Spring Boot**, mentre il frontend è realizzato in **React** e **TypeScript**. Il progetto integra l'intero stack in un unico workspace con tooling condiviso (ESLint, Prettier, TypeScript) per garantire coerenza e manutenibilità.
+
+[Guarda il codice](https://github.com/LorenzoParolini/pawperfect)
 
 </td>
 </tr>
@@ -68,21 +79,27 @@ Un'applicazione web dinamica per esplorare film, costruita con **JavaScript** e 
 
 - **Framework CSS**: Tailwind, Bootstrap
 - **Design**: Responsive Design, Usabilità, Accessibilità
+- **Autenticazione**: JWT, Bearer Token
 
 ### Backend Development
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-- **OOP** con Java e Spring Boot
+- **OOP** con Java (EE) e Spring Boot
 - API RESTful e testing con **Postman**
 
 ### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 - Modellazione E/R, SQL e NoSQL
+
+### AI
+- Prompt Engineering (basi)
+- Machine Learning (basi)
+- AI API Integration
 
 ### DevOps & Versionamento
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -90,6 +107,7 @@ Un'applicazione web dinamica per esplorare film, costruita con **JavaScript** e 
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=white)
 
 - Workflow Git collaborativi (branch, merge, PR)
+- CI/CD
 - Utilizzo di **Jira** per project management
 
 ### Design UI/UX
